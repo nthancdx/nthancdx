@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nthancdx
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python, C+, Javascript
-- 💞️ Already taken w/ LOML: Angelica Fautina Lasam- Boquila
+- 💞️ BIG YES
 
 
 <!---
