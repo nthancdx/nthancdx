@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nthancdx
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python, C+, Javascript
+- 🌱 I’m currently learning Python, C+, Java
 - 💞️ BIG YES
 
 
