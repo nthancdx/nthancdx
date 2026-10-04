@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nthancdx
-- 👀 I’m interested in programming
+- 👀 I’m interested in Cybersecurity, Hardware, and IoT.
 - 🌱 I’m currently learning Python, C+, Java
 - 💞️ BIG YES
 
